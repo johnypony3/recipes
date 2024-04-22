@@ -1,4 +1,5 @@
-baseURL = 'https://johnypony3.github.io/recipes/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = "Edward's Recipes"
 theme = 'ananke'
+tableOfContents = true
