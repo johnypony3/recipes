@@ -1,6 +1,7 @@
 +++
 title = 'Cast-Iron Skillet Corn Dip'
-draft = true
+date = 2024-04-22T13:42:00-00:00
+draft = false
 +++
 
 - SERVES Serves 6 to 8
