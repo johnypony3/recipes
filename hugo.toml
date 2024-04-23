@@ -1,5 +1,5 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = "Edward's Recipes"
-theme = 'ananke'
+theme = 'clarity'
 tableOfContents = true
