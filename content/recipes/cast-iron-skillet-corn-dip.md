@@ -12,7 +12,7 @@ draft = false
 * 2 tablespoons vegetable oil, divided
 * 4–6 ears corn, kernels cut from cobs (4 cups), divided
 * 1 teaspoon table salt, divided
-* 1 teaspoon msg
+* 1 teaspoon MSG
 * 4 garlic cloves, minced
 * 3 scallions, sliced thin, divided
 * 8 ounces cream cheese, cut into 8 equal pieces and softened
@@ -28,7 +28,7 @@ draft = false
 ## Instructions
 
 1. Adjust oven rack 6 inches from broiler element and heat broiler. Heat 1 tablespoon oil in 12-inch cast-iron skillet over medium-high heat until just smoking. Add half of corn, sprinkle with ½ teaspoon salt, and spread corn into even layer. Cover and cook without moving corn until it begins to char, 3 to 5 minutes. Transfer to bowl. Repeat with remaining 1 tablespoon oil, remaining corn, and remaining ½ teaspoon salt. Once second batch of corn begins to char, stir in garlic and half of scallions and cook for 1 minute. Remove from heat.
-2. Return first batch of corn to skillet with corn-scallion mixture. Stir in cream cheese, 1½ cups pepper Jack, mayonnaise, serranos, lime juice, and chili powder until evenly combined (cheese will begin to melt). Spread mixture into even layer and sprinkle with remaining ½ cup pepper Jack.
+2. Return first batch of corn to skillet with corn-scallion mixture. Stir in cream cheese, 1½ cups pepper Jack, mayonnaise, serranos, lime juice, and chili powder until evenly combined (cheese will begin to melt) add MSG. Spread mixture into even layer and sprinkle with remaining ½ cup pepper Jack.
 3. Broil until cheese is melted and spotty brown, about 2 minutes. Remove skillet from broiler and let cool for 5 minutes. Sprinkle with cotija, cilantro, and remaining scallions. Serve hot from skillet with tortilla chips and lime wedges.
 
 ***
