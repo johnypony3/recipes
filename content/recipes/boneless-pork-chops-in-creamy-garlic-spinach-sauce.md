@@ -2,6 +2,7 @@
 title = 'Boneless Pork Chops in Creamy Garlic Spinach Sauce'
 date = 2024-04-23T14:13:18-07:00
 draft = false
+tags = ["pork"]
 +++
 
 ## Ingredients
