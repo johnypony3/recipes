@@ -12,7 +12,8 @@ draft = false
 * 2 tablespoons vegetable oil, divided
 * 4–6 ears corn, kernels cut from cobs (4 cups), divided
 * 1 teaspoon table salt, divided
-* 2 garlic cloves, minced
+* 1 teaspoon msg
+* 4 garlic cloves, minced
 * 3 scallions, sliced thin, divided
 * 8 ounces cream cheese, cut into 8 equal pieces and softened
 * 8 ounces pepper Jack cheese, shredded (2 cups), divided
