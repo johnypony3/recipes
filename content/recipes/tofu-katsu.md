@@ -2,7 +2,7 @@
 title = 'Tofu Katsu'
 date = 2024-04-23T13:46:04-07:00
 draft = false
-tags = [tofu, vegetarian]
+tags = ["tofu", "vegetarian"]
 +++
 
 - SERVES Serves 4
