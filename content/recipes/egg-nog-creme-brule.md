@@ -23,4 +23,8 @@ tags = ["alcohol", "drink", "christmas", "festive"]
 1. Bake until the centers of the custards are just set, about 30 to 35 minutes. Remove from the oven and transfer the custards to a wire rack to cool to room temperature, about 30 minutes. Cover the ramekins with plastic wrap and refrigerate until completely chilled, about 1 hour.
 1. When ready to serve, heat the broiler to high and arrange a rack in the upper third. Place the custards on a baking sheet and sprinkle about 2 teaspoons of the remaining 1/4 cup sugar evenly over each. Place under the broiler until the sugar is caramelized and golden brown, about 1 to 2 minutes—watch carefully to avoid burning. (Alternatively, you can use a kitchen torch.) Serve immediately.
 
+## References
+
+### Source
+
 [Source Link](https://www.yummly.com/recipe/Eggnog-Creme-Brulee-1456002)

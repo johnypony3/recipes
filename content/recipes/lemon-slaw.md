@@ -21,10 +21,12 @@ tags = ["salad", "quick", "vegetarian"]
 
 ***
 
+## References
+
 ## Goes good with
 
 [Tofu Katsu]({{< ref "tofu-katsu" >}})
 
-## References
+### Source
 
 [Source Link](https://www.americastestkitchen.com/recipes/15855-tofu-katsu)
