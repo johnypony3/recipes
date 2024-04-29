@@ -8,6 +8,8 @@ tags = ["salad", "quick", "vegetarian"]
 - SERVES Serves 4
 - TIME 5 Minutes
 
+## Ingredients
+
 - ½ head green cabbage, halved, cored, and sliced thin (6 cups)
 - 3 scallions, sliced thin on bias
 - 1 tablespoon lemon juice
