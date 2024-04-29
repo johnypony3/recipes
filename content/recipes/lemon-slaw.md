@@ -17,7 +17,8 @@ tags = ["salad", "quick", "vegetarian"]
 
 ## Instructions
 
-1. Combine cabbage, scallions, lemon juice, and ¼ teaspoon salt in bowl. Squeeze and massage with your hands until cabbage is slightly wilted, about 1 minute.
+1. Combine cabbage, scallions, lemon juice, and ¼ teaspoon salt in bowl
+1. Squeeze and massage with your hands until cabbage is slightly wilted, about 1 minute
 
 ***
 
