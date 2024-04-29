@@ -9,20 +9,20 @@ tags = ["salad", "ham", "pork"]
 
 ### Ingredients for the salad
 
-* 1.5 lbs Yukon Gold potatoes, about 4-5 medium
-* 3 large carrots
-* 4 large eggs
-* 4 large dill pickles, or to taste (use naturally fermented/brined pickles)
-* 1 cup frozen peas, thawed (you can substitute with fresh cooked peas or even canned)
+- 1.5 lbs Yukon Gold potatoes, about 4-5 medium
+- 3 large carrots
+- 4 large eggs
+- 4 large dill pickles, or to taste (use naturally fermented/brined pickles)
+- 1 cup frozen peas, thawed (you can substitute with fresh cooked peas or even canned)
 
 ### Ingredients for the dressing
 
-* 1 cup high-quality mayonnaise
-* 2 Tbsp olive oil
-* Juice of ½ a lemon, or to taste
-* 1 Tbsp pickle liquid (optional)
-* ¾ Tbsp kosher salt, or to taste
-* 2 Tbsp chopped fresh dill (optional)
+- 1 cup high-quality mayonnaise
+- 2 Tbsp olive oil
+- Juice of ½ a lemon, or to taste
+- 1 Tbsp pickle liquid (optional)
+- ¾ Tbsp kosher salt, or to taste
+- 2 Tbsp chopped fresh dill (optional)
 
 ## Instructions
 

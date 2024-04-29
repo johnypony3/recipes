@@ -11,21 +11,21 @@ draft = false
 
 ### If bringing to a potluck type of event, double the ingredients
 
-* 2 tablespoons vegetable oil, divided
-* 4–6 ears corn, kernels cut from cobs (4 cups), divided
-* 1 teaspoon table salt, divided
-* 1 teaspoon MSG
-* 4 garlic cloves, minced
-* 3 scallions, sliced thin, divided
-* 8 ounces cream cheese, cut into 8 equal pieces and softened
-* 8 ounces pepper Jack cheese, shredded (2 cups), divided
-* 1 cup mayonnaise
-* 2 serrano chiles, stemmed, seeded, and sliced thin
-* 2 tablespoons lime juice, plus lime wedges for serving
-* 2 teaspoons chili powder
-* 1 ounce cotija cheese, crumbled (¼ cup)
-* ¼ cup chopped fresh cilantro
-* Tortilla chips
+- 2 tablespoons vegetable oil, divided
+- 4–6 ears corn, kernels cut from cobs (4 cups), divided
+- 1 teaspoon table salt, divided
+- 1 teaspoon MSG
+- 4 garlic cloves, minced
+- 3 scallions, sliced thin, divided
+- 8 ounces cream cheese, cut into 8 equal pieces and softened
+- 8 ounces pepper Jack cheese, shredded (2 cups), divided
+- 1 cup mayonnaise
+- 2 serrano chiles, stemmed, seeded, and sliced thin
+- 2 tablespoons lime juice, plus lime wedges for serving
+- 2 teaspoons chili powder
+- 1 ounce cotija cheese, crumbled (¼ cup)
+- ¼ cup chopped fresh cilantro
+- Tortilla chips
 
 ## Instructions
 
