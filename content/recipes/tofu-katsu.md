@@ -34,6 +34,10 @@ Tofu Katsu
 
 ## Before You Begin
 
-We prefer the cabbage to be thinly sliced on a mandoline for the best presentation and texture. For a vegan version, substitute 6 tablespoons liquid plant-based eggs for the eggs. Serve with rice. 
+We prefer the cabbage to be thinly sliced on a mandoline for the best presentation and texture. For a vegan version, substitute 6 tablespoons liquid plant-based eggs for the eggs. Serve with rice.
+
+## Goes good with
+
+[Lemon Slaw]({{< ref "lemon-slaw.md" >}})
 
 [Source Link](https://www.americastestkitchen.com/recipes/15855-tofu-katsu)
