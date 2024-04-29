@@ -47,4 +47,8 @@ This recipe is inspired by esquites, a Mexican dish of grilled corn, mayonnaise,
 
 A large ear of corn should yield 1 cup of kernels, but if the ears you find are smaller, buy at least six. We prefer to use fresh corn in this recipe, but you can substitute 4 cups of thawed frozen corn; thaw frozen corn in a single layer on a dish towel–lined platter or baking sheet and pat dry before adding to hot oil in step 1. We like serrano chiles here, but you can substitute a jalapeño chile that has been halved lengthwise, seeded, and sliced ⅛ inch thick crosswise. For a spicier dip, do not seed the chiles.
 
+## References
+
+### Source
+
 [Source Link](https://americastestkitchen.com/recipes/15836-cast-iron-skillet-corn-dip)
