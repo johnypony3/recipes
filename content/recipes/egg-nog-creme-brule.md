@@ -6,13 +6,13 @@ draft = false
 
 ## Ingredients
 
-* 8 cups water
-* 2/3 cup Best Eggnog
-* 3/4 cup heavy cream
-* 1/2 cup whole milk
-* 1/8 teaspoon freshly grated nutmeg
-* 5 large egg yolks
-* 1/3 cup plus 1/4 cup granulated sugar
+- 8 cups water
+- 2/3 cup Best Eggnog
+- 3/4 cup heavy cream
+- 1/2 cup whole milk
+- 1/8 teaspoon freshly grated nutmeg
+- 5 large egg yolks
+- 1/3 cup plus 1/4 cup granulated sugar
 
 ## Instructions
 

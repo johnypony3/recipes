@@ -7,20 +7,20 @@ tags = ["pork"]
 
 ## Ingredients
 
-* 3 pork chops, boneless
-* Salt and fresh cracked pepper, to taste
-* 1 teaspoon paprika
-* 2 teaspoons olive oil
-* 2 tablespoons butter
-* 6 cloves garlic, finely minced
-* 1 small yellow onion, minced
-* 1/3 cup vegetable or chicken stock
-* 1 3/4 cups half and half or heavy cream
-* 3 cups baby spinach
-* 1 teaspoon Italian seasoning
-* 1 teaspoon crushed red chili pepper flakes, optional
-* 1/4 cup fresh grated Parmesan cheese, optional
-* Fresh chopped parsley
+- 3 pork chops, boneless
+- Salt and fresh cracked pepper, to taste
+- 1 teaspoon paprika
+- 2 teaspoons olive oil
+- 2 tablespoons butter
+- 6 cloves garlic, finely minced
+- 1 small yellow onion, minced
+- 1/3 cup vegetable or chicken stock
+- 1 3/4 cups half and half or heavy cream
+- 3 cups baby spinach
+- 1 teaspoon Italian seasoning
+- 1 teaspoon crushed red chili pepper flakes, optional
+- 1/4 cup fresh grated Parmesan cheese, optional
+- Fresh chopped parsley
 
 ## Instructions
 
