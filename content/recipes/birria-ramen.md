@@ -3,6 +3,7 @@ title = 'Birria Ramen'
 date = 2024-05-02T15:13:10-07:00
 draft = false
 tags = ["Main Courses", "Pasta", "Beef", "Soups"]
+thumbnail = "images/recipes/birria-ramen.png"
 +++
 
 SERVES 2

@@ -3,6 +3,7 @@ title = 'Eggnog Crème Brûlée'
 date = 2024-04-22T13:48:58-07:00
 draft = false
 tags = ["alcohol", "drink", "christmas", "festive"]
+thumbnail = "images/recipes/eggnog-creme-brule.png"
 +++
 
 ## Ingredients

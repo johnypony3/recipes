@@ -3,6 +3,7 @@ title = 'Brown Sugar and Mustard Glazed Baked Ham'
 date = 2024-04-23T14:15:45-07:00
 draft = false
 tags = ["ham", "pork"]
+thumbnail = "images/recipes/brown-sugar-and-mustard-glazed-baked-ham.png"
 +++
 
 ## Ingredients

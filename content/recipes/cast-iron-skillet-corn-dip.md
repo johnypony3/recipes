@@ -2,6 +2,7 @@
 title = 'Cast-Iron Skillet Corn Dip'
 date = 2024-04-22T13:42:00-00:00
 draft = false
+thumbnail = "images/recipes/cast-iron-skillet-corn-dip.png"
 +++
 
 - SERVES Serves 6 to 8

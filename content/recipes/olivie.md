@@ -3,6 +3,7 @@ title = 'Olivie (Olivier)'
 date = 2024-04-23T14:18:12-07:00
 draft = false
 tags = ["salad", "ham", "pork"]
+thumbnail = "images/recipes/olivie.png"
 +++
 
 ## Ingredients

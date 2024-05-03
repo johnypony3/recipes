@@ -3,6 +3,7 @@ title = 'Lemon Slaw'
 date = 2024-04-29T11:35:20-07:00
 draft = false
 tags = ["salad", "quick", "vegetarian"]
+thumbnail = "images/recipes/lemon-slaw.png"
 +++
 
 - SERVES Serves 4
