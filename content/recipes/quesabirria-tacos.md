@@ -3,6 +3,7 @@ title = 'Quesabirria Tacos'
 date = 2024-05-02T15:05:13-07:00
 draft = false
 tags = ["Main Courses","Latin America & Caribbean","Mexican","Fruits & Vegetables","Meat","Vegetables","Beef"]
+thumbnail = "images/recipes/quesabirria-tacos.png"
 +++
 
 SERVES 4 to 6

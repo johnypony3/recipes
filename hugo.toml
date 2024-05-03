@@ -3,3 +3,5 @@ languageCode = 'en-us'
 title = "Edward's Recipes"
 theme = 'clarity'
 tableOfContents = true
+enforceDarkMode = true
+enableSearch = true
