@@ -20,14 +20,17 @@ TIME 25 minutes
 
 ## Instructions
 
-1. Heat birria broth in medium saucepan over medium-high heat until just simmering. Cover and keep warm over low heat. Heat birria meat in skillet or microwave, stirring occasionally, until hot, about 5 minutes.
-1. Meanwhile, cook ramen noodles according to package instructions (without seasoning packets). Drain noodles and divide between 2 deep serving bowls. Top with broth, meat, cabbage, cilantro, scallions, and jalapeño. Serve.
+1. Heat birria broth in medium saucepan over medium-high heat until just simmering. Cover and keep warm over low heat.
+2. Heat birria meat in skillet or microwave, stirring occasionally, until hot, about 5 minutes.
+3. Meanwhile, cook ramen noodles according to package instructions (without seasoning packets).
+4. Drain noodles and divide between 2 deep serving bowls.
+5. Top with broth, meat, cabbage, cilantro, scallions, and jalapeño. Serve.
 
 ***
 
 ## Before You Begin
 
-- This version of birria ramen was inspired by the one served at Rollies Mexican Patio in Tucson, Arizona. You can modify the toppings to suit your taste. This recipe can easily be doubled.
+This version of birria ramen was inspired by the one served at Rollies Mexican Patio in Tucson, Arizona. You can modify the toppings to suit your taste. This recipe can easily be doubled.
 
 ## Why This Recipe Works
 
