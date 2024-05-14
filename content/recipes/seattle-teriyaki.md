@@ -2,7 +2,7 @@
 title = 'Seattle Teriyaki'
 date = 2024-05-13T20:18:06-07:00
 draft = false
-tags = ["Main Courses", "Asia", "Japanese", "Asian", "Poultry", "Chicken", "Grilling & Barbecue"]
+tags = ["Main Courses","Asia","Japanese","Asian","Poultry","Chicken","Grilling & Barbecue"]
 thumbnail = "images/recipes/seattle-teriyaki.png"
 +++
 
