@@ -7,7 +7,7 @@ thumbnail = "images/recipes/seattle-teriyaki.png"
 +++
 
 SERVES 6 to 8
-TIME 2 hours + 24 hours marrinade
+TIME 2 hours and 24 hours marrinade
 
 ## Ingredients
 
