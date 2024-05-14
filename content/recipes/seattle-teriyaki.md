@@ -6,8 +6,8 @@ tags = ["Main Courses","Asia","Japanese","Asian","Poultry","Chicken","Grilling &
 thumbnail = "images/recipes/seattle-teriyaki.png"
 +++
 
-SERVES 6 to 8
-TIME 2 hours and 24 hours marrinade
+- SERVES 6 to 8
+- TIME 2 hours and 24 hours marrinade
 
 ## Ingredients
 

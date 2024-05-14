@@ -6,8 +6,8 @@ tags = ["Main Courses", "Pasta", "Beef", "Soups"]
 thumbnail = "images/recipes/birria-ramen.png"
 +++
 
-SERVES 2
-TIME 25 minutes
+- SERVES 2
+- TIME 25 minutes
 
 ## Ingredients
 
