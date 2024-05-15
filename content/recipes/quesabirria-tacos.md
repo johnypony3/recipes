@@ -6,8 +6,8 @@ tags = ["Main Courses","Latin America & Caribbean","Mexican","Fruits & Vegetable
 thumbnail = "images/recipes/quesabirria-tacos.png"
 +++
 
-SERVES 4 to 6
-TIME 4 hours, plus 30 minutes resting
+- SERVES 4 to 6
+- TIME 4 hours, plus 30 minutes resting
 
 ## Ingredients
 
