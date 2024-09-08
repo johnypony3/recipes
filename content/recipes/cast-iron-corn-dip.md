@@ -37,4 +37,18 @@ thumbnail = "images/recipes/corn-dip.png"
 
 ## Before You Begin
 
-A large ear of corn sh
+A large ear of corn should yield 1 cup of kernels, but if the ears you find are smaller, buy at least six. We prefer to use fresh corn in this recipe, but you can substitute 4 cups of thawed frozen corn; thaw frozen corn in a single layer on a dish towel– lined platter or baking sheet and pat dry before adding to hot oil in step 1. We like serrano chiles here, but you can substitute a jalapeño chile that has been halved lengthwise, seeded, and sliced ⅛ inch thick crosswise. For a spicier dip, do not seed the chiles.
+
+## Why This Recipe Works
+
+This recipe is inspired by esquites, a Mexican dish of grilled corn, mayonnaise, cheese, chile, and lime. We adapted these flavors into a hot, gooey, and delicious dip served in the cast-iron skillet the dish was made in. The skillet was key for getting good char on the corn kernels. It also kept the dip hot during serving. The bright and vibrant cilantro and scallions, along with the dusting of salty cotija cheese, gave the dip added flavor and enhanced its visual appeal and wow factor.
+
+## Notes
+
+I generally tripple everything to make it fit my 13 1/2" x 9 1/4" x 3 1/4" high interior lasana pan.
+
+## References
+
+### Source
+
+[Source Link](https://www.americastestkitchen.com/recipes/15836)
